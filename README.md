@@ -1,1 +1,1 @@
-# customerloyalty_sql_project
+# Customerloyaltyprogram Data Analysis using SQL
