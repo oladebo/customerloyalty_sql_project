@@ -82,12 +82,12 @@ CREATE TABLE customerloyaltyprogram
 ```SELECT * FROM customerloyaltyprogram;```
 
 -- Q.2 Retrieve customername, country revenue where education columns is Bachelor
-SELECT 
+```SELECT 
 	customername,
 	country,
 	revenue
 FROM customerloyaltyprogram
-WHERE education = 'Bachelor'
+WHERE education = 'Bachelor'```
 
 -- Q.3 Customerloyaltyprogram Count
 -- How many people in each customername are estimated to loyaltyprogram by revenue
