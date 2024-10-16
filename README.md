@@ -6,7 +6,7 @@ This project consists a detailed analysis of CUSTOMERLOYALTYPROGRAM using SQL. T
 
 The following README provide  a comprehensive account of the project’s objective, business problem, finding and conclusion.
 
-## Objective
+## Objectives
 General Question/Business Question
 
 - A Which country generate highest profits
