@@ -22,7 +22,7 @@ General Question/Business Question
 -- Q.4 Determine which product lines are most profitable to guide products line strategy
 
 - E. Who are the most customername by product line?
--  Q.5 identify the most product line to focused on retaining & rewarding
+--  Q.5 identify the most product line to focused on retaining & rewarding
 
 - F. What is the average profit per sale by country
 -- Q.6 How average profit varies by country to assess market efficiency
@@ -77,7 +77,7 @@ CREATE TABLE customerloyaltyprogram
 -- Data Analysis Report
 -- General Business Question And Solutions
 
-SELECT * FROM customerloyaltyprogram;
+```SELECT * FROM customerloyaltyprogram;```
 
 -- Q.1 Retrieve all the columns, customername, country, revenue where education is 
 -- Bachelor
