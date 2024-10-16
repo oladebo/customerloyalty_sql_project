@@ -36,7 +36,7 @@ The data for this project is from Kaggle.com dataset:
 Datalink [https://www.kaggle.com/datasets/ranja7/customerloyaltytier-trainset]
 
 ## Schema
-
+```
 -- CustomerLoyaltyProgram Project
 
 DROP TABLE IF EXISTS customerloyaltyprogram;
@@ -295,7 +295,7 @@ ORDER BY avg_profit_per_sale DESC
 SELECT customername, SUM(revenue) As total_revenue
 FROM customerloyaltyprogram
 GROUP BY customername
-ORDER BY total_revenue DESC
+ORDER BY total_revenue DESC ```
 
 
 These SQL queries are design to address key business metrics such as revenue profits, cost, customer value and product performance
