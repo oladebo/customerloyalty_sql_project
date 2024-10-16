@@ -81,11 +81,9 @@ CREATE TABLE customerloyaltyprogram
 
 -- Q.1 Retrieve all the columns, customername, country, revenue where education is 
 -- Bachelor
-'''SELECT 
+```SELECT 
 	*
-FROM customerloyaltyprogram;'''
-
--- Q.2 Retrieve customername, country revenue where education columns is Bachelor
+-- Q.2 Retrieve customername, country revenue where education columns is Bachelor```
 SELECT 
 	customername,
 	country,
