@@ -77,13 +77,11 @@ CREATE TABLE customerloyaltyprogram
 -- Data Analysis Report
 -- General Business Question And Solutions
 
+-- Q.1 Retrieve all the columns from customerloyaltyprogram
+
 ```SELECT * FROM customerloyaltyprogram;```
 
--- Q.1 Retrieve all the columns, customername, country, revenue where education is 
--- Bachelor
-```SELECT 
-	*
--- Q.2 Retrieve customername, country revenue where education columns is Bachelor```
+-- Q.2 Retrieve customername, country revenue where education columns is Bachelor
 SELECT 
 	customername,
 	country,
