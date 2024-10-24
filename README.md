@@ -298,8 +298,14 @@ GROUP BY customername
 ORDER BY total_revenue DESC ```
 
 
-These SQL queries are design to address key business metrics such as revenue profits, cost, customer value and product performance
-![image](https://github.com/user-attachments/assets/ee814824-1d0a-4877-9406-a72d758d15e4)
+These SQL queries are designed to address key business metrics such as revenue profits, cost, customer value, and product customerloyalty performance
+
+## Tools Used
+- SQL
+- POWER BI
+
+## THANKS
+
 
 
 
